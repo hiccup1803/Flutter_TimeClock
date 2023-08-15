@@ -1,0 +1,242 @@
+PODS:
+  - adv_camera (0.0.1):
+    - Flutter
+  - Alamofire (5.2.2)
+  - app_tracking_transparency (0.0.1):
+    - Flutter
+  - background_fetch (1.1.2):
+    - Flutter
+  - CocoaLumberjack (3.7.4):
+    - CocoaLumberjack/Core (= 3.7.4)
+  - CocoaLumberjack/Core (3.7.4)
+  - device_info_plus (0.0.1):
+    - Flutter
+  - DKImagePickerController/Core (4.3.4):
+    - DKImagePickerController/ImageDataManager
+    - DKImagePickerController/Resource
+  - DKImagePickerController/ImageDataManager (4.3.4)
+  - DKImagePickerController/PhotoGallery (4.3.4):
+    - DKImagePickerController/Core
+    - DKPhotoGallery
+  - DKImagePickerController/Resource (4.3.4)
+  - DKPhotoGallery (0.0.17):
+    - DKPhotoGallery/Core (= 0.0.17)
+    - DKPhotoGallery/Model (= 0.0.17)
+    - DKPhotoGallery/Preview (= 0.0.17)
+    - DKPhotoGallery/Resource (= 0.0.17)
+    - SDWebImage
+    - SwiftyGif
+  - DKPhotoGallery/Core (0.0.17):
+    - DKPhotoGallery/Model
+    - DKPhotoGallery/Preview
+    - SDWebImage
+    - SwiftyGif
+  - DKPhotoGallery/Model (0.0.17):
+    - SDWebImage
+    - SwiftyGif
+  - DKPhotoGallery/Preview (0.0.17):
+    - DKPhotoGallery/Model
+    - DKPhotoGallery/Resource
+    - SDWebImage
+    - SwiftyGif
+  - DKPhotoGallery/Resource (0.0.17):
+    - SDWebImage
+    - SwiftyGif
+  - file_picker (0.0.1):
+    - DKImagePickerController/PhotoGallery
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_background_geolocation (4.9.0):
+    - CocoaLumberjack (~> 3.7.2)
+    - Flutter
+  - flutter_beep (0.0.1):
+    - Flutter
+  - flutter_downloader (0.0.1):
+    - Flutter
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - flutter_native_timezone (0.0.1):
+    - Flutter
+  - flutter_uploader (1.2.0):
+    - Alamofire (= 5.2.2)
+    - Flutter
+  - image_gallery_saver (1.5.0):
+    - Flutter
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - MTBBarcodeScanner (5.0.11)
+  - nfc_manager (0.0.1):
+    - Flutter
+  - notification_permissions (0.4.4):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.0.4):
+    - Flutter
+  - Pushy (1.0.32)
+  - pushy_flutter (2.0.12):
+    - Flutter
+    - Pushy (= 1.0.32)
+  - qr_code_scanner (0.2.0):
+    - Flutter
+    - MTBBarcodeScanner
+  - SDWebImage (5.15.5):
+    - SDWebImage/Core (= 5.15.5)
+  - SDWebImage/Core (5.15.5)
+  - share_plus (0.0.1):
+    - Flutter
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - sqlite3 (3.40.0):
+    - sqlite3/common (= 3.40.0)
+  - sqlite3/common (3.40.0)
+  - sqlite3/fts5 (3.40.0):
+    - sqlite3/common
+  - sqlite3/perf-threadsafe (3.40.0):
+    - sqlite3/common
+  - sqlite3/rtree (3.40.0):
+    - sqlite3/common
+  - sqlite3_flutter_libs (0.0.1):
+    - Flutter
+    - sqlite3 (~> 3.40.0)
+    - sqlite3/fts5
+    - sqlite3/perf-threadsafe
+    - sqlite3/rtree
+  - SwiftyGif (5.4.4)
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - wakelock (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - adv_camera (from `.symlinks/plugins/adv_camera/ios`)
+  - app_tracking_transparency (from `.symlinks/plugins/app_tracking_transparency/ios`)
+  - background_fetch (from `.symlinks/plugins/background_fetch/ios`)
+  - device_info_plus (from `.symlinks/plugins/device_info_plus/ios`)
+  - file_picker (from `.symlinks/plugins/file_picker/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_background_geolocation (from `.symlinks/plugins/flutter_background_geolocation/ios`)
+  - flutter_beep (from `.symlinks/plugins/flutter_beep/ios`)
+  - flutter_downloader (from `.symlinks/plugins/flutter_downloader/ios`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - flutter_native_timezone (from `.symlinks/plugins/flutter_native_timezone/ios`)
+  - flutter_uploader (from `.symlinks/plugins/flutter_uploader/ios`)
+  - image_gallery_saver (from `.symlinks/plugins/image_gallery_saver/ios`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - nfc_manager (from `.symlinks/plugins/nfc_manager/ios`)
+  - notification_permissions (from `.symlinks/plugins/notification_permissions/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/ios`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - pushy_flutter (from `.symlinks/plugins/pushy_flutter/ios`)
+  - qr_code_scanner (from `.symlinks/plugins/qr_code_scanner/ios`)
+  - share_plus (from `.symlinks/plugins/share_plus/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/ios`)
+  - sqlite3_flutter_libs (from `.symlinks/plugins/sqlite3_flutter_libs/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - wakelock (from `.symlinks/plugins/wakelock/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CocoaLumberjack
+    - DKImagePickerController
+    - DKPhotoGallery
+    - MTBBarcodeScanner
+    - Pushy
+    - SDWebImage
+    - sqlite3
+    - SwiftyGif
+
+EXTERNAL SOURCES:
+  adv_camera:
+    :path: ".symlinks/plugins/adv_camera/ios"
+  app_tracking_transparency:
+    :path: ".symlinks/plugins/app_tracking_transparency/ios"
+  background_fetch:
+    :path: ".symlinks/plugins/background_fetch/ios"
+  device_info_plus:
+    :path: ".symlinks/plugins/device_info_plus/ios"
+  file_picker:
+    :path: ".symlinks/plugins/file_picker/ios"
+  Flutter:
+    :path: Flutter
+  flutter_background_geolocation:
+    :path: ".symlinks/plugins/flutter_background_geolocation/ios"
+  flutter_beep:
+    :path: ".symlinks/plugins/flutter_beep/ios"
+  flutter_downloader:
+    :path: ".symlinks/plugins/flutter_downloader/ios"
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  flutter_native_timezone:
+    :path: ".symlinks/plugins/flutter_native_timezone/ios"
+  flutter_uploader:
+    :path: ".symlinks/plugins/flutter_uploader/ios"
+  image_gallery_saver:
+    :path: ".symlinks/plugins/image_gallery_saver/ios"
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  nfc_manager:
+    :path: ".symlinks/plugins/nfc_manager/ios"
+  notification_permissions:
+    :path: ".symlinks/plugins/notification_permissions/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/ios"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  pushy_flutter:
+    :path: ".symlinks/plugins/pushy_flutter/ios"
+  qr_code_scanner:
+    :path: ".symlinks/plugins/qr_code_scanner/ios"
+  share_plus:
+    :path: ".symlinks/plugins/share_plus/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/ios"
+  sqlite3_flutter_libs:
+    :path: ".symlinks/plugins/sqlite3_flutter_libs/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  wakelock:
+    :path: ".symlinks/plugins/wakelock/ios"
+
+SPEC CHECKSUMS:
+  adv_camera: 0e954c22d5a993a38ecce7581ade87ecf5660523
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  app_tracking_transparency: 5b1745ef9ade815f7455cb6a0848349589afb7c5
+  background_fetch: aaf8fc9d1da7f04e5373aabd4bb239704a5be6eb
+  CocoaLumberjack: 543c79c114dadc3b1aba95641d8738b06b05b646
+  device_info_plus: e5c5da33f982a436e103237c0c85f9031142abed
+  DKImagePickerController: b512c28220a2b8ac7419f21c491fc8534b7601ac
+  DKPhotoGallery: fdfad5125a9fdda9cc57df834d49df790dbb4179
+  file_picker: ce3938a0df3cc1ef404671531facef740d03f920
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_background_geolocation: 8e8eab886074f1751f10c8212e47a04a889316f9
+  flutter_beep: 54fb393b22dfa0f0e4573c81b1c74dd71c4e5af8
+  flutter_downloader: 058b9c41564a90500f67f3e432e3524613a7fd83
+  flutter_local_notifications: 0c0b1ae97e741e1521e4c1629a459d04b9aec743
+  flutter_native_timezone: 5f05b2de06c9776b4cc70e1839f03de178394d22
+  flutter_uploader: 2b07c4d41cf1218f25e6d5b8bcfa2d913838e27c
+  image_gallery_saver: 259eab68fb271cfd57d599904f7acdc7832e7ef2
+  image_picker_ios: b786a5dcf033a8336a657191401bfdf12017dabb
+  MTBBarcodeScanner: f453b33c4b7dfe545d8c6484ed744d55671788cb
+  nfc_manager: d7da7cb781f7744b94df5fe9dbca904ac4a0939e
+  notification_permissions: 825ea1bf2a52ab585c53fd7b5e8e96876d735d4b
+  path_provider_foundation: c68054786f1b4f3343858c1e1d0caaded73f0be9
+  permission_handler_apple: 44366e37eaf29454a1e7b1b7d736c2cceaeb17ce
+  Pushy: d87dddd74cd738d804cd95a1d4bbcd53a352b6e9
+  pushy_flutter: c94395f0dbdd3f4a7ef589719cb8f12da55e8e6c
+  qr_code_scanner: bb67d64904c3b9658ada8c402e8b4d406d5d796e
+  SDWebImage: fd7e1a22f00303e058058278639bf6196ee431fe
+  share_plus: 056a1e8ac890df3e33cb503afffaf1e9b4fbae68
+  shared_preferences_foundation: 986fc17f3d3251412d18b0265f9c64113a8c2472
+  sqlite3: 88dd99ef4ac3945f5a15facdd752933c52fd93bf
+  sqlite3_flutter_libs: c00751e981228acb63595236703da79d31282b63
+  SwiftyGif: 93a1cc87bf3a51916001cf8f3d63835fb64c819f
+  url_launcher_ios: 839c58cdb4279282219f5e248c3321761ff3c4de
+  wakelock: d0fc7c864128eac40eba1617cb5264d9c940b46f
+
+PODFILE CHECKSUM: b363e43382474c1020ed8d10a76098280397f5d2
+
+COCOAPODS: 1.11.3
